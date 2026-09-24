@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.4.0] — 2026-09-24
+
+### Features
+
+- Add a `/speakers` page listing every speaker with the session(s) they give,
+  grouped by speaker and sorted by name, with a "Speakers" nav link (EN/ES)
+
+### Bug Fixes
+
+- Speakers page: translate the page copy, fix text/hover contrast, heading
+  hierarchy, and list semantics found by the accessibility audit
+
+### Maintenance
+
+- Trigger the first CI run on this repo copy after the move (Actions run
+  history doesn't carry over on a transfer/fork)
+
+## Test Suite
+
+| Suite          | Status     |
+| -------------- | ---------- |
+| ESLint         | ⏳ pending |
+| Type-check     | ⏳ pending |
+| Unit tests     | ⏳ pending |
+| Build (Vercel) | ⏳ pending |
+
+CI: pending — will run once the release PR is opened
+
 ## [0.3.1] — 2026-09-24
 
 ### Bug Fixes
