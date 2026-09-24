@@ -12,5 +12,9 @@
     "heading": "React Alicante Conference Companion",
     "line1": "Your schedule, your sessions —",
     "line2": "one place"
+  },
+  "SpeakersPage": {
+    "title": "Speakers",
+    "description": "Every speaker at React Alicante, and the session(s) they're giving."
   }
 }
